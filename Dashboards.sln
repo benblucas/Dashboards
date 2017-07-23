@@ -1,18 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "Dashboards", "Dashboards\Dashboards.jsproj", "{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Android = Debug|Android
+		Debug|Any CPU = Debug|Any CPU
 		Debug|iOS = Debug|iOS
 		Debug|Windows-ARM = Debug|Windows-ARM
 		Debug|Windows-x64 = Debug|Windows-x64
 		Debug|Windows-x86 = Debug|Windows-x86
 		Release|Android = Release|Android
+		Release|Any CPU = Release|Any CPU
 		Release|iOS = Release|iOS
 		Release|Windows-ARM = Release|Windows-ARM
 		Release|Windows-x64 = Release|Windows-x64
@@ -22,6 +24,7 @@ Global
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Debug|Android.ActiveCfg = Debug|Android
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Debug|Android.Build.0 = Debug|Android
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Debug|Android.Deploy.0 = Debug|Android
+		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Debug|Any CPU.ActiveCfg = Debug|Android
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Debug|iOS.ActiveCfg = Debug|iOS
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Debug|iOS.Build.0 = Debug|iOS
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Debug|iOS.Deploy.0 = Debug|iOS
@@ -37,6 +40,7 @@ Global
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Release|Android.ActiveCfg = Release|Android
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Release|Android.Build.0 = Release|Android
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Release|Android.Deploy.0 = Release|Android
+		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Release|Any CPU.ActiveCfg = Release|Android
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Release|iOS.ActiveCfg = Release|iOS
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Release|iOS.Build.0 = Release|iOS
 		{3FFAF422-C43D-48BD-BCEC-9046F5ED8C61}.Release|iOS.Deploy.0 = Release|iOS
